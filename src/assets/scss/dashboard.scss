@@ -1,0 +1,52 @@
+* {
+  color: white;
+}
+
+html, body {
+  background: black !important;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.inline {
+  display: inline;
+}
+
+.absolute {
+  position: absolute;
+}
+
+#accounts,
+#check-buy,
+#buy-data {
+  margin-bottom: 15px;
+}
+
+#cancel-orders {
+  &:hover {
+    color: #ffffff;
+  }
+  color: #000000;
+  margin-left: 15px;
+}
+
+/*
+.candles {
+  background: white;
+  opacity: 0.5;
+}
+*/
+
+header {
+  height: 50px;
+  div {
+    height: 50px;
+		h1 {
+			font-size: 18px;
+		}
+  }
+}
+
+
