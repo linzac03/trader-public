@@ -1,6 +1,6 @@
 # trader-public
 
-public, semi-cleaned up, version of my crypto trader
+public, semi-cleaned up, version of my very very naive crypto trader
 
 I do not, in any way, make any promises about this being a profitable trader and take no responsibility for any use of this project
 
