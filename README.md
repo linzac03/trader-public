@@ -1,5 +1,7 @@
 # trader-public
+
 public, cleaned up, version of my crypto trader
+
 =======
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
