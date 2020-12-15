@@ -22,7 +22,7 @@ However at `/check-buy` a function is called that checks whether a buy should ha
 This function is a rough estimate of how _I_ think about the market in short term and is no way validated in terms of any correctness/profitability
 
 Another note, this is not meant to be public facing, this is purely meant as a locally facing application only
-requests to `/cancel-open-orders` will cancel open orders which I'm sure any user would want control over, and as this application provides no frontend authentication currently I again advise against publicly hosting this thing
+requests to `/cancel-open-orders` will cancel open orders which I'm sure any user would want control over, and as this application provides no authentication currently, I again advise against publicly hosting this thing
 
 This is currently hardcoded in more than a few places as well, and will only work for the BTC-USD pairing
 
