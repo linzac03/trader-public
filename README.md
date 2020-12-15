@@ -26,5 +26,5 @@ requests to `/cancel-open-orders` will cancel open orders which I'm sure any use
 
 This is currently hardcoded in more than a few places as well, and will only work for the BTC-USD pairing
 
-# This is a learning project, for learning and fun, because learning is fun
+## This is a learning project, for learning and fun, because learning is fun
 
